@@ -1,0 +1,15 @@
+In mineral processing, we treat minerals, not assays.  Assays are a guide to how the minerals are concentrating; mineralogy provides the fundamental information as to what we are processing.  It is from the mineralogy that we derive processing strategies such as grinding and regrinding, and electrochemistry for flotation.
+
+On the modern Process Mineralogy platform, several quantitative mineral measurement tools are available, such as QEMSCAN, MLA, and the TIMA.  When teamed up with a modern microprobe such as the CAMECA SX-100, powerful compositional information is obtained that informs the project of variations in the mineral composition.  This variation influences and changes the optimal flotation domain for that mineral.  More recently, the onsite version of quantitative mineralogy, MINSite, by Process Mineralogical Consulting Ltd., adds shorter-term data for operations control.
+
+Let Flowsheets assist you with a mineralogical programme…..
+
+Some examples of how this is practiced follow:
+
+Baum, W., and Lotter, N.O., and Whittaker, P.J., 2004.  Process Mineralogy – a New Generation for Ore Characterization and Plant Optimization, SME Annual Meeting and Exhibit, Denver, February 2004, Preprint 04-12.
+
+Lotter, N.O., Kormos, L.J., Oliveira, J.,  Fragomeni, D., and Whiteman, E., 2010.  Modern Process Mineralogy: Two case studies, Minerals Engineering, 24, (2011), pp. 638–650.
+
+Lotter, N.O.,  Bradshaw, D.J., and Whiteman, E.,  2014.  Modern Practice of Laboratory Flotation Testing for Flowsheet Development – a Review,  Minerals Engineering, 66-68, (2014), pp. 2-12.
+
+Lotter, N.O., Bradshaw, D.J., and Barnes, A.R., 2016.  Classification of the Major Copper Sulphides into Semiconductor Types, and Associated flotation Characteristics, Minerals Engineering, 96-97, (2016), pp. 177-184.

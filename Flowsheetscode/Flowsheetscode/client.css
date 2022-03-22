@@ -1,0 +1,98 @@
+.carousel {
+    --current-slide: 0;
+    position: absolute;
+    bottom: 20px;
+    overflow: hidden;
+    width: 50vw;
+    text-align: center;
+    margin-left: 27%;
+}
+
+.carousel-button {
+    
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+  
+   
+    padding: 0;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    border: none;
+  
+    font-size: 1.5rem;
+    cursor: pointer;
+  
+    transition: color 0.1s;
+    color: white;
+  }
+  
+  .carousel-button:hover {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel-button_next {
+    right: 0;
+  }
+  
+  .slides {
+    position: flex;
+    height: 100%;
+  }
+
+  img{
+    display: none;
+    width: 90%;
+    height: 120px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .carousel-button {
+      font-size: 2rem;
+      margin: 1rem;
+    }
+  }
+  
+#clients{
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   text-align: center;
+   color: white;
+}
+
+
+body {
+  background-color: #111;
+}
+
+#earth {
+  position: absolute;
+  margin-left: 38%;
+    width: 300px;
+    height: 275px;
+    background: url(https://web.archive.org/web/20150807125159if_/http://www.noirextreme.com/digital/Earth-Color4096.jpg);
+    border-radius: 50%;
+    background-size: 565px;
+    box-shadow: inset 8px 36px 80px 36px rgb(0, 0, 0),
+    inset -6px 0 12px 4px rgba(255, 255, 255, 0.3);
+    -webkit-animation-name: rotate;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-name: rotate;
+    animation-duration: 10;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotate {
+    from { background-position: 0px 0px; }
+    to { background-position: 565px 0px; }
+}
+@-webkit-keyframes rotate {
+    from { background-position: 0px 0px; }
+    to { background-position: 610px 0px; }
+}

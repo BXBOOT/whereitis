@@ -1,0 +1,23 @@
+Faster Flowsheet Development at the 95% Confidence Level
+
+Greenfield flowsheet development faces several challenges: one of these is developing the flowsheet at the same time that the exploration team are still discovering and expanding their strike area and target definition.  Another is to focus the laboratory work in such a way that efficient, timely information is produced that advances the flowsheet within the overall project schedule.  An even bigger challenge is the increasing complexity of future orebodies as well as lower paymetal grades.  In this regard, the hybrid discipline of Process Mineralogy, shown in Figure 1, uses the interaction between sampling, mineralogy and mineral processing to develop the flowsheet features faster, based on true information.
+
+
+Figure 1 – The Synergistic Assembly of Sampling, Mineralogy and Mineral Processing
+The valuable associated practice of replicate flotation tests with relevant quality control then produces averaged results with reduced measurement errors and a measurable confidence level of 95% (Lotter, 1995; Lotter and Fragomeni, 2010).
+
+Once the flowsheet has been prototyped, the all-important variability testing must follow to describe the range of metallurgical responses across the entire mineral resource.
+
+Flowsheets staff have many years of experience in this application, particularly in copper-nickel-PGM/PGE ores such as Bushveld Merensky, UG2 and Platreef (South Africa); Raglan and Nickel Rim South (Canada), and hypogene/supergene copper ores such as Kamoa (DRC, Africa) (Lotter, 2011), and can manage the laboratory work programme in a way that answers both of these challenges.  Use of appropriate mineralogical measurements informs the project as to the nature and processing implications of the minerals that host the paymetals, for example grinding strategy.  Thereafter, the flotation testing programme becomes more focussed and efficient (Lotter et al., 2013).
+
+When the flotation testwork gets underway, a set of appropriate quality controls identifies which of the replicate tests are acceptable, and which must be rejected.  The outcome is a reliable flowsheet that may be designed with confidence.
+
+Let Flowsheets assist you with your flowsheet development…
+
+Lotter, N.O., 1995.  A Quality Control Model for the Development of High-Confidence Flotation Test Data, SME Preprint, SME Annual Meeting and Exhibit, Denver, CO, 1995, Paper #95-40.
+
+Lotter, N.O., and Fragomeni, D., 2010.  High-Confidence Flotation Testing at Xstrata Process Support, SME, Minerals and Metallurgical Processing Journal, February 2010, Paper MMP-09-011, 27, 1, pp. 47-54.
+
+Lotter, N.O., 2011.  Modern Process Mineralogy: an Integrated Approach to Flowsheeting, Minerals Engineering, 24, 12, (2011), pp. 1229-1237.
+
+Lotter, N.O., Oliveira, J.F., Hannaford, A.L., and Amos, S.R., 2013.  Flowsheet Development for the Kamoa Project – a Case Study, Minerals Engineering, 52, (2013), pp. 8-20.

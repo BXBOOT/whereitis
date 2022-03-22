@@ -1,0 +1,28 @@
+4 Practical and Effective Sampling Tools (Easier Than You Thought)
+Drill Core 1 (1 of 1)
+
+
+
+Get accurate and reliable measurements of metal grade and content through best practice metallurgical sampling.  Know what sampling error you are left with.  Reduce sampling bias.  Practical, effective sampling of ore, minerals and metallurgical process streams is critical in the development of a mineral resource and in an operating concentrator, leading to accurate metal accounting.  We need true samples, not specimens, for good project and management decisions – for example, what the daily statements of metal recovery tell us.  At Flowsheets, we have simplified the explanation of Pierre Gy’s complex sampling methods to the point where they are easily understood and properly used.  Unbiassed sample extraction to deliver a primary sample that meets Gy’s minimum sample mass requirements with known confidence limits  is now easily explained and demonstrated, as described in a review paper written by Norm Lotter and his co-authors.  There are four key sampling tools for this desirable outcome:
+
+Minimum Sample Mass models
+The Rules of Unbiassed Sample Extraction
+The Semivariogram
+The Safety Line
+A mine which is selling its final concentrate as the end-point of business must accurately know the concentrate grade and metal content of each shipment.  We build redundancy into metallurgical sampling designs for saleable concentrate in order that our client has a strong position from which to defend his claim as to metal content sold.
+
+In this regard, fire-assaying for precious metals by lead collection is a key tool if one of the paymetals is a precious metal (gold, silver, platinum, palladium, rhodium) – a common feature seen in porphyry copper ores.  Also, in the geological exploration of a new ore resource, drill-core is assayed by the same method.  In both cases, flux formulation is critical to delivering a successfully-formed slag that allows the free reduction of lead oxide to molten lead metal that will collect the precious metals into a lead button.  For drill-core, there are two main types of flux – one for acidic rock, e.g. quartzitic gangue; the other, for basic or mafic rock, e.g. the ferro-magnesian silicates that often host the platinum group metals.  We have expertise and experience in this key activity for successful fire-assaying.
+
+We also have experience in sampling and metal accounting in smelters, as well as with the important interface between the operating concentrator and the receiving smelter, where commonly a  reconciliation issue develops between concentrate production and concentrate received statements.
+
+Flowsheets will be pleased to assist your team towards better sampling and metal accounting practice.
+
+Let Flowsheets assist you in your project with best sampling practices…..
+
+Lotter, N.O. Review of Evaluation Models for the Representative Sampling of Ore, J. S. Afr. Inst. Min. Metall., July-August 1995, pp. 149-155.
+
+Lotter, N.O., Stratified Sampling of Drill-Core, proc. Canadian Mineral Processors, Ottawa, January 2010, Paper No. 11, pp. 163-179.
+
+Lotter, N.O., and Evans, C.L., 2017.  Sampling – a Key Tool in Modern Process Mineralogy, proc. MEI Process Mineralogy 17, Cape Town, March 2017.
+
+Lotter, N.O., Evans, C.L., and Engstrőm, K., 2018. Sampling – a Key Tool in Process  Mineralogy, Minerals Engineering, 116, (2018), pp. 196-202.
